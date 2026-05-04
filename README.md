@@ -4,6 +4,8 @@
 
 **Try it 100% free on Discord: [https://discord.gg/M7Gpr4tTP9](https://discord.gg/M7Gpr4tTP9)**
 
+**Try the API: [https://api.synthidbypass.com/dashboard#](https://api.synthidbypass.com/dashboard#)**
+
 **Learn More: [https://synthidbypass.com](https://synthidbypass.com)**
 
 ---
