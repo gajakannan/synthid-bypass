@@ -2,7 +2,7 @@
 
 **Disclaimer:** This project is intended for educational and AI safety research purposes only. The tools and techniques described herein should not be used for malicious purposes, to circumvent copyright, or to misrepresent the origin of digital content. This proof of concept is presented as-is and without warranty.
 
-**Try it 100% free on twotensors (enable "Remove Synthid": [https://twotensors.ai/](https://twotensors.ai/)**
+**Try it 100% free on twotensors (enable "Remove Synthid"): [https://twotensors.ai/](https://twotensors.ai/)**
 
 ---
 
